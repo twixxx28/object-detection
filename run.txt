@@ -1,0 +1,1 @@
+python detect.py images 0.5 0.5 data/images/dog.jpg data/images/office.jpg
